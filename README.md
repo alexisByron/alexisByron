@@ -10,7 +10,7 @@ Actualmente me desarrollo profesionalmente como Frontend developer mobile con re
   - <a href="https://github.com/alexisByron/TaksApp">Task Manager</a>
   - <a href="https://github.com/alexisByron/App_appleWatch">App Apple watch notes</a> , esta fue mi primera app en el ecosistema de Apple
   
-## Entre mis aptitudes estan 📚
+## Entre mis aptitudes están 📚
   - JavaScript
   - TypeScript
   - React
