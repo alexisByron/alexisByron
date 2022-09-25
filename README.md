@@ -1,4 +1,4 @@
-# 👋 Hola, Soy Alexis <img src="https://user-images.githubusercontent.com/72414242/192127218-76d8a72e-7c51-4f7f-bfd6-df24a295fc8e.png" width="100" height="100">
+# <img src="https://user-images.githubusercontent.com/72414242/192127218-76d8a72e-7c51-4f7f-bfd6-df24a295fc8e.png" width="100" height="100"> Hola, Soy Alexis 
 
 Siempre intento estar en constante aprendizaje, me considero alguien apasionado por la tecnología y el impacto que esta puede causar en las personas, me agrada pensar que estoy colaborando en este crecimiento tecnológico que estamos teniendo como sociedad
 
