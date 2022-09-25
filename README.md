@@ -1,4 +1,4 @@
-## 👋 Hola, Soy Alexis <img src="https://user-images.githubusercontent.com/72414242/192127218-76d8a72e-7c51-4f7f-bfd6-df24a295fc8e.png" width="150" height="150">
+# 👋 Hola, Soy Alexis <img src="https://user-images.githubusercontent.com/72414242/192127218-76d8a72e-7c51-4f7f-bfd6-df24a295fc8e.png" width="100" height="100">
 
 Siempre intento estar en constante aprendizaje, me considero alguien apasionado por la tecnología y el impacto que esta puede causar en las personas, me agrada pensar que estoy colaborando en este crecimiento tecnológico que estamos teniendo como sociedad
 
@@ -31,10 +31,10 @@ Y alguna más...</p>
   
   <hr>
   
-   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="max-width: 100%;">
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="max-width: 100%;">
   
   - <a href="https://github.com/alexisByron/web_app">Renta de departamentos</a>
   
 ## Encuéntrame en la red 🌎
 
- - LinkedIn: <a href="https://www.linkedin.com/in/alexis-moya-yanquis-713455167/">Alexis Moya</a> 
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"> : <a href="https://www.linkedin.com/in/alexis-moya-yanquis-713455167/"> Alexis Moya</a> 
