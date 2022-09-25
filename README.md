@@ -19,7 +19,7 @@ Actualmente me desarrollo profesionalmente como Frontend developer mobile con re
   <br>
 Y alguna más...</p>
 
-## Ultimos proyectos
+## Proyectos Reelevantes
 
  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" style="max-width: 100%;">
 
