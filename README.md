@@ -25,15 +25,15 @@ Y alguna más...</p>
 
 Últimamente he estado aprendiendo sobre Swift y SwiftUI para el desarrollo de Aplicaciones nativas en entorno de Apple(ios-ipadOS-macOSX,), puedes mirar mis últimos proyectos desarrollados en esta tecnología 🧑🏻‍💻📱:
 
-  - <a href="https://github.com/alexisByron/Pokedex">App Pokémon</a>
-  - <a href="https://github.com/alexisByron/TaksApp">Task Manager</a>
-  - <a href="https://github.com/alexisByron/App_appleWatch">App Apple watch notes</a> , esta fue mi primera app en el ecosistema de Apple
+  - <a href="https://github.com/alexisByron/Pokedex" target="_blank">App Pokémon</a>
+  - <a href="https://github.com/alexisByron/TaksApp" target="_blank">Task Manager</a>
+  - <a href="https://github.com/alexisByron/App_appleWatch" target="_blank">App Apple watch notes</a> , esta fue mi primera app en el ecosistema de Apple
   
   <hr>
   
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="max-width: 100%;">
   
-  - <a href="https://github.com/alexisByron/web_app">Renta de departamentos</a>
+  - <a href="https://github.com/alexisByron/web_app" target="_blank">Renta de departamentos</a>
   
 ## Encuéntrame en la red 🌎
 
