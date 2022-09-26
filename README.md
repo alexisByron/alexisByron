@@ -29,8 +29,8 @@ Actualmente me desarrollo profesionalmente como Frontend developer mobile con re
 
 Últimamente he estado aprendiendo sobre Swift y SwiftUI para el desarrollo de Aplicaciones nativas en entorno de Apple(ios-ipadOS-macOSX,), puedes mirar mis últimos proyectos desarrollados en esta tecnología 🧑🏻‍💻📱:
 
-  - <a href="https://github.com/alexisByron/Pokedex" target="_blank">App Pokémon, arquitectura MVVM</a>
-  - <a href="https://github.com/alexisByron/TaksApp" target="_blank">Task Manager, arquitectura MVVM</a>
+  - <a href="https://github.com/alexisByron/Pokedex" target="_blank">App Pokémon</a>, arquitectura MVVM
+  - <a href="https://github.com/alexisByron/TaksApp" target="_blank">Task Manager</a>, arquitectura MVVM
   - <a href="https://github.com/alexisByron/App_appleWatch" target="_blank">App Apple watch notes</a> , esta fue mi primera app en el ecosistema de Apple
   
   <hr>
