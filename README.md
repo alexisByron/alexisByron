@@ -19,7 +19,7 @@ Actualmente me desarrollo profesionalmente como Frontend developer mobile con re
   <br>
 </p>
 
-#### Siempre estoy en constante aprendizaje entre mis fuentes estan:
+#### Sigo en constante aprendizaje entre mis fuentes estan:
  <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" style="max-width: 100%;"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="max-width: 100%;">
 
 
