@@ -25,6 +25,11 @@ Actualmente me desarrollo profesionalmente como Frontend developer mobile con re
 
 ## Proyectos Relevantes
 
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="max-width: 100%;">
+
+ - <a href="https://github.com/alexisByron/FutbolApp" target="_blank">App Futbol, Equipos por liga ⚽️🏆</a>, intencion de ocuparlo como modulo en una aplicacion mobil mas grande.
+  <hr>
+
  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" style="max-width: 100%;">
 
 Últimamente he estado aprendiendo sobre Swift y SwiftUI para el desarrollo de Aplicaciones nativas en entorno de Apple(ios-ipadOS-macOSX,), puedes mirar mis últimos proyectos desarrollados en esta tecnología 🧑🏻‍💻📱:
