@@ -46,4 +46,3 @@ Actualmente me desarrollo profesionalmente como Frontend developer mobile con re
 
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;"> : <a  target="_blank" href="https://www.linkedin.com/in/alexis-moya-yanquis"> Alexis Moya</a> 
  
-<a href="https://alexismoya.website/" target="_blank"> ![icons8-website-48](https://user-images.githubusercontent.com/72414242/220410867-11a3598f-0d72-44ab-b51b-99f4e44b0ff8.png) :WebPage Alexis Moya</a> 
